@@ -4,7 +4,7 @@
 #
 Name     : azure-mgmt-signalr
 Version  : 0.3.0
-Release  : 3
+Release  : 4
 URL      : https://files.pythonhosted.org/packages/6b/70/26d29a7a31a4c95ac2de05358c2beec0c033033de23bc0ef6452af3fb626/azure-mgmt-signalr-0.3.0.zip
 Source0  : https://files.pythonhosted.org/packages/6b/70/26d29a7a31a4c95ac2de05358c2beec0c033033de23bc0ef6452af3fb626/azure-mgmt-signalr-0.3.0.zip
 Summary  : Microsoft Azure SignalR Client Library for Python
